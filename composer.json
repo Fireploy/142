@@ -1,0 +1,10 @@
+{
+  "name": "mi/proyecto-php",
+  "description": "Plantilla básica de PHP con Composer",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
